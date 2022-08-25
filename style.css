@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+}
+.carousel-item{
+    height:600px;
+    background:burlywood;
+    
+}
+img{
+    height: 600px;
+    width: auto;
+    object-fit: contain;
+}
+
+/* .carousel-item{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    top:0;
+} */
+
